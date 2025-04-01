@@ -1,16 +1,19 @@
-## Hi there 👋
+## 🌟 Über mich  
+⋆ Ich bereite mich auf eine Ausbildung als Fachinformatiker – Anwendungsentwicklung vor  
+⋆ Interesse an Web- und Backendentwicklung, IT-Systemen und Terminalarbeit  
+⋆ Technisch denkend, lösungsorientiert, mit hoher Lernbereitschaft
 
-<!--
-**ali-vahidi/ali-vahidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✔ Programmiersprachen  
+⋆ JavaScript, Python
 
-Here are some ideas to get you started:
+### ✔ Frameworks & Tools  
+⋆ Node.js, Express.js, MongoDB, SQL (Grundkenntnisse)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✔ Betriebssysteme & Netzwerke  
+⋆ Windows, macOS, Linux (Ubuntu)
+
+### ✔ Terminal & IT-Erfahrung  
+⋆ Shell-Kommandos, IT-Support, Netzwerkerfahrung
+
+### ✔ Kontakt  
+⋆ savsh9978@gmail.com
