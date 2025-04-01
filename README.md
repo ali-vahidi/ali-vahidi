@@ -1,6 +1,6 @@
 ## 🌟 Über mich  
-⋆ Ich bereite mich auf eine Ausbildung als Fachinformatiker – Anwendungsentwicklung vor  
-⋆ Interesse an Web- und Backendentwicklung, IT-Systemen und Terminalarbeit  
+⋆ Auf der Suche nach Platz in meiner Traumfachrichtung - Ausbildung als Fachinformatiker  
+⋆ Interesse an Web und Backendentwicklung, IT Systemen und Terminalarbeit  
 ⋆ Technisch denkend, lösungsorientiert, mit hoher Lernbereitschaft
 
 ### ✔ Programmiersprachen  
@@ -13,7 +13,7 @@
 ⋆ Windows, macOS, Linux (Ubuntu)
 
 ### ✔ Terminal & IT-Erfahrung  
-⋆ Shell-Kommandos, IT-Support, Netzwerkerfahrung
+⋆ Shell Kommandos, IT Support, Netzwerkerfahrung
 
 ### ✔ Kontakt  
 ⋆ savsh9978@gmail.com
